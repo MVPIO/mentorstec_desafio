@@ -15,3 +15,6 @@ Precisa baixar a biblioteca Pandas https://pandas.pydata.org/ e para visualizar 
 ### **OU**
 
 De forma online através do Google Colab https://colab.research.google.com/ e outros afins. Faça o upload do banco (loja.db).
+Pode se acessar o link: https://colab.research.google.com/drive/1KuiBr05cdmG7tzSzCBah5DRzkRZ7hdka?usp=sharing que será redirecionado ao notebook do Google Colab, onde se encontra o código completo separado em partes para executar. <br>
+<br>
+**ATENÇÃO** : Para funcionar o código corretamente, faça o upload do banco (loja.db), apertando no ícone 📁 do lado esquerdo da tela e depois em <img heigth="25" width="25" src="https://user-images.githubusercontent.com/83551846/149015316-ba16bd26-9dee-4d0b-928c-f7192f318ab5.png"/>, por fim selecione o banco (**na pasta que você baixou o banco**).
